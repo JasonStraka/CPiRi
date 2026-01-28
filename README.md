@@ -1,4 +1,4 @@
-# CPiRi: Channel Permutation-Invariant Relational Interaction for Multivariate Time Series Forecasting
+# [CPiRi: Channel Permutation-Invariant Relational Interaction for Multivariate Time Series Forecasting](https://openreview.net/forum?id=tgnXCCjKE3)
 
 CPiRi enables channel-permutation-invariant MTSF by combining frozen temporal encoding with lightweight spatial attention trained via channel shuffling, achieving SOTA accuracy with zero performance drop under dynamic sensor changes.
 
@@ -73,4 +73,16 @@ python experiments/train.py \
        ├─PEMS04
        ├─PEMS08
        └─SD
+```
+
+## BibTeX
+```bibtex
+@inproceedings{iclr2026cpiri,
+    title={CPiRi: Channel Permutation-Invariant Relational Interaction for Multivariate Time Series Forecasting},
+    author={Jiyuan Xu and Wenyu Zhang and Xin Jing and Jiahao Nie and Shuai Chen and Shuai Zhang},
+    booktitle={The Fourteenth International Conference on Learning Representations},
+    year={2026},
+    url={https://openreview.net/forum?id=tgnXCCjKE3},
+    series = {ICLR '26}
+}
 ```
