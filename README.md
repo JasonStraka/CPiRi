@@ -7,9 +7,15 @@ CPiRi enables channel-permutation-invariant MTSF by combining frozen temporal en
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-blue)](https://openreview.net/forum?id=tgnXCCjKE3)
 [![arXiv](https://img.shields.io/badge/arXiv-2601.20318-b31b1b)](https://arxiv.org/abs/2601.20318)
 [![ICLR](https://img.shields.io/badge/ICLR-2026-FF6B6B)](https://iclr.cc/Conferences/2026)
-[![yiyibooks](https://img.shields.io/badge/yiyibooks-ChineseVersion-888888)](https://yiyibooks.cn/arxiv/2601.20318v1/index.html)
-[![yiyibooks](https://img.shields.io/badge/hjfy-ChineseVersion-888888)](https://hjfy.top/arxiv/2601.20318v1)
-[![yiyibooks](https://img.shields.io/badge/STLearner-ChineseVersion-888888)](https://mp.weixin.qq.com/s/UBmXPGG0cMzAre3LivgEFw)
+[![yiyibooks](https://img.shields.io/badge/yiyibooks-中文翻译-888888)](https://yiyibooks.cn/arxiv/2601.20318v2/index.html)
+[![yiyibooks](https://img.shields.io/badge/hjfy-中文翻译-888888)](https://hjfy.top/arxiv/2601.20318v2)
+[![yiyibooks](https://img.shields.io/badge/知乎-中文解读-888888)](https://www.zhihu.com/question/2011080676556969439/answer/2011081835426371129)
+[![yiyibooks](https://img.shields.io/badge/STLearner-公众号宣传-33AAA2)](https://mp.weixin.qq.com/s/UBmXPGG0cMzAre3LivgEFw)
+[![yiyibooks](https://img.shields.io/badge/时序人-公众号宣传-33AAA2)](https://mp.weixin.qq.com/s/GVGLi51BbdXXHtszueOutQ)
+[![yiyibooks](https://img.shields.io/badge/时序之心-公众号宣传-33AAA2)](https://mp.weixin.qq.com/s/P9qLq2aqsurUBTq2nWjNZw)
+[![yiyibooks](https://img.shields.io/badge/卷毛的时序日记-公众号宣传-33AAA2)](https://mp.weixin.qq.com/s/jDv_XQxtmSzsszR-hlufTg)
+[![yiyibooks](https://img.shields.io/badge/新智元-公众号宣传-33AAA2)]()
+
 
 ## 📄 Paper Abstract
 > *Current methods for multivariate time series forecasting can be classified into channel-dependent and channel-independent models. Channel-dependent models learn cross-channel features but often overfit the channel ordering, which hampers adaptation when channels are added or reordered. Channel-independent models treat each channel in isolation to increase flexibility, yet this neglects inter-channel dependencies and limits performance. To address these limitations, we propose CPiRi, a channel permutation invariant (CPI) framework that infers cross-channel structure from data rather than memorizing a fixed ordering, enabling deployment in settings with structural and distributional co-drift without retraining. CPiRi couples spatio-temporal decoupling architecture with permutation-invariant regularization training strategy: a frozen pretrained temporal encoder extracts high-quality temporal features, a lightweight spatial module learns content-driven inter-channel relations, while a channel shuffling strategy enforces CPI during training. We further ground CPiRi in theory by analyzing permutation equivariance in multivariate time series forecasting. Experiments on multiple benchmarks show state-of-the-art results. CPiRi remains stable when channel orders are shuffled and exhibits strong inductive generalization to unseen channels even when trained on only half of the channels, while maintaining practical efficiency on large-scale datasets.*
