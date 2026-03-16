@@ -6,7 +6,7 @@ CPiRi enables channel-permutation-invariant MTSF by combining frozen temporal en
 
 [![Paper](https://img.shields.io/badge/Paper-OpenReview-blue)](https://openreview.net/forum?id=tgnXCCjKE3)
 [![arXiv](https://img.shields.io/badge/arXiv-2601.20318-b31b1b)](https://arxiv.org/abs/2601.20318)
-[![ICLR](https://img.shields.io/badge/ICLR2026-Poster-FF6B6B)]([https://iclr.cc/Conferences/2026](https://iclr.cc/virtual/2026/poster/10006960))
+[![ICLR](https://img.shields.io/badge/ICLR2026-Poster-FF6B6B)](https://iclr.cc/virtual/2026/poster/10006960)
 [![yiyibooks](https://img.shields.io/badge/yiyibooks-中文翻译-888888)](https://yiyibooks.cn/arxiv/2601.20318v2/index.html)
 [![yiyibooks](https://img.shields.io/badge/hjfy-中文翻译-888888)](https://hjfy.top/arxiv/2601.20318v2)
 [![yiyibooks](https://img.shields.io/badge/知乎-中文解读-888888)](https://www.zhihu.com/question/2011080676556969439/answer/2011081835426371129)
