@@ -11,10 +11,11 @@ CPiRi enables channel-permutation-invariant MTSF by combining frozen temporal en
 [![yiyibooks](https://img.shields.io/badge/hjfy-中文翻译-888888)](https://hjfy.top/arxiv/2601.20318v2)
 [![yiyibooks](https://img.shields.io/badge/知乎-中文解读-888888)](https://www.zhihu.com/question/2011080676556969439/answer/2011081835426371129)
 [![yiyibooks](https://img.shields.io/badge/STLearner-公众号宣传-33AAA2)](https://mp.weixin.qq.com/s/UBmXPGG0cMzAre3LivgEFw)
+[![yiyibooks](https://img.shields.io/badge/新智元-公众号宣传-33AAA2)](https://mp.weixin.qq.com/s/dapV92RgrNzNVsUyCidkVg)
 [![yiyibooks](https://img.shields.io/badge/时序人-公众号宣传-33AAA2)](https://mp.weixin.qq.com/s/GVGLi51BbdXXHtszueOutQ)
 [![yiyibooks](https://img.shields.io/badge/时序之心-公众号宣传-33AAA2)](https://mp.weixin.qq.com/s/P9qLq2aqsurUBTq2nWjNZw)
 [![yiyibooks](https://img.shields.io/badge/卷毛的时序日记-公众号宣传-33AAA2)](https://mp.weixin.qq.com/s/jDv_XQxtmSzsszR-hlufTg)
-[![yiyibooks](https://img.shields.io/badge/新智元-公众号宣传-33AAA2)](https://mp.weixin.qq.com/s/dapV92RgrNzNVsUyCidkVg)
+
 
 
 ## 📄 Paper Abstract
